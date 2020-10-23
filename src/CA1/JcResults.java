@@ -9,4 +9,9 @@ public class JcResults
     {
 
     }
+
+    public static void readInFile()
+    {
+
+    }
 }
